@@ -21,3 +21,4 @@
 0.11.0 connection_pool:>= 0|checksum:7ff0e24d3865deaf22aac9bc8525c53bb143318378ba5d8b8b27ab9258343547,ruby:>= 2.5.0
 0.11.1 connection_pool:>= 0|checksum:23235d5fffc274b544294cc8c1dea6d030490def68e176f230532307c69854f8,ruby:>= 2.5.0
 0.11.2 connection_pool:>= 0|checksum:be9f1d732258d17603e6e38113844891900f44a26ab683fc8fae00174eca3eb9,ruby:>= 2.5.0
+0.12.0 connection_pool:>= 0|checksum:ba78d1b7944a6ce2577222201fe8287694e2ad12efb1226bfbaf2b9f6d70581d,ruby:>= 2.5.0
